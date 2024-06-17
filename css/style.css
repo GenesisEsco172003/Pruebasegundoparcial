@@ -1,0 +1,113 @@
+:root{
+	--menu-hover:#cd9b33;
+	--color-general:#666;
+	--color-titulos:#000;
+	--bg-footer:#22202e;
+	--color--footer:#CCC;
+}
+body{
+	font-size: 14px;
+}
+header{
+	background-color: #fff;
+	padding: 5px 0;
+	box-shadow: 0px 0px 5px 10px #f2f2f2;
+}
+footer #copyright{
+	background-color: #000;
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+}
+
+
+.footer{
+	background-color:#22202e;
+	padding: 20px;
+	
+}
+@font-face{
+	font-family:"Kaushan";
+		src: url("../fonts/Kaushan_Script/KaushanScript-Regular.ttf");
+	font-family: "Lora";
+	src: url("../fonts/Lora/Lora-VariableFont_wght.ttf");
+}
+.subtitle{
+	font-family:"Kaushan";
+	color: var(--color-titulos);
+	font-size: 40px;
+	padding: 40px;
+}
+
+h4{
+	font-family: "Lora";
+	font-size: 15px;
+}
+
+#delicieux{
+	text-align: center;
+	 
+	
+}
+h5{
+	font-family: "Lora";
+	color: var(--color-titulos);
+	font-size: 15px;
+	
+}
+p{
+	font-family: "Lora";
+	color: var(--color-general);
+}
+#intro{
+	padding: 30px;
+	text-align: center;
+}
+
+.sunny{
+	font-family: "Lora";
+	color: var(--color-titulos);
+	text-align: center;
+}
+#intro p{
+	text-align: center;
+	padding: 30px;
+	font-size: 18px;
+}		
+
+h3{
+	color: #FCFAFA;
+	font-family: "Lora";
+	padding: 20px;
+	font-size: 18px;
+	
+}
+.text{
+	font-family: "Lora";
+	padding: 5px;
+	font-size: 12px;
+	color: var(--color-general);
+}
+.carousel-control-prev{
+	background-color: #000000;
+	height: 50px;
+  width: 50px;
+	
+	
+	
+	  
+}
+.carousel-control-next{
+	background-color: #000000;
+	height: 50px;
+  width: 50px;
+	
+	
+}
+
+
+
+
+
+
+
